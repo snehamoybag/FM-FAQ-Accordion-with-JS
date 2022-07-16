@@ -140,7 +140,7 @@ body {
 @media (min-width: 40em) {
   .faq-acc-container {
     margin: unset;
-    padding: 0.625rem;
+    padding: 1.25rem;
     --faq-acc-con-max-width: 58rem;
   }
   
