@@ -132,8 +132,8 @@ body {
   line-height: 1.6;
   margin-top: 0.5rem;
   margin-right: 1em; /* prevents the texts from going under the arrow icon */
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
+
+
 }
 
 /* TABLESTS and LESS WIDER SCREENS*/
