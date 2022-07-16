@@ -140,6 +140,7 @@ body {
 @media (min-width: 40em) {
   .faq-acc-container {
     margin: unset;
+    padding: 0.625rem;
     --faq-acc-con-max-width: 58rem;
   }
   
@@ -168,7 +169,7 @@ body {
 @media (min-width: 75em) {
   .faq-acc-container {
     overflow: hidden;
-    gap: 2.5rem;
+    gap: 2.2rem;
   }
   
   .faq-acc-illustration {
