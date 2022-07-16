@@ -146,7 +146,7 @@ body {
   
   .faq-acc-container > * {
     flex-basis: 50%;
-    flex-grow: 1;
+
   }
   
   .faq-acc-illustration {
@@ -176,6 +176,7 @@ body {
   
   .faq-acc-illustration {
     margin-left: -7rem;
+    flex-grow: 1;
     --faq-acc-illus-bg: 
       url('images/illustration-woman-online-desktop.svg'),
       url('images/bg-pattern-desktop.svg');
