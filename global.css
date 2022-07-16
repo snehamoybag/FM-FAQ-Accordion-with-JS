@@ -146,6 +146,7 @@ body {
   
   .faq-acc-container > * {
     flex-basis: 50%;
+    flex-grow: 1;
   }
   
   .faq-acc-illustration {
@@ -168,7 +169,7 @@ body {
 /* WIDER SCREENS */
 @media (min-width: 75em) {
   .faq-acc-container {
-    overflow: hidden;
+    overflow-x: hidden;
     gap: 2.2rem;
     padding: 0;
   }
